@@ -1,89 +1,80 @@
 # novella-xl-15
-Automated Novella Creation
-Unleash Your Inner Novelist with NovellaXL_15, a Wordapp on the Wordware AI Platform
-Full peer reviewed 15 chapter novella with TTS chapter readout via Elevenlabs "Will".
 
-Hey everyone! I'm excited to share something I've been working on: a custom-built AI-powered novella creation tool called NovellaXL_15. It's a "wordapp" built on the Wordware platform, designed to help you bring your story ideas to life, generating full-length novellas complete with chapter-by-chapter text-to-speech (TTS) audio.
+## Automated Novella Creation
 
-What are Wordware and Wordapps?
+Unleash Your Inner Novelist with NovellaXL_15, a Wordapp on the Wordware AI Platform. Full peer reviewed 15 chapter novella with TTS chapter readout via Elevenlabs "Will".
 
-Before we dive into NovellaXL_15, let's talk about the platform it lives on. Wordware is an innovative AI platform that empowers users to create and deploy a wide range of AI-powered applications, which we call "wordapps." Think of it as a creative playground for building AI tools. These wordapps can do all sorts of things, from generating images to analyzing text, and, in the case of NovellaXL_15, crafting entire novellas.
+Hey everyone! I'm excited to share something I've been working on: a custom-built AI-powered novella creation tool called **NovellaXL_15**. It's a "wordapp" built on the Wordware platform, designed to help you bring your story ideas to life, generating full-length novellas complete with chapter-by-chapter text-to-speech (TTS) audio.
 
-Introducing NovellaXL_15: Your AI Writing Partner
+## What are Wordware and Wordapps?
 
-NovellaXL_15 is a specialized wordapp designed specifically for long-form creative writing. You provide the initial spark – a story idea, writing style, and genre – and it takes care of the heavy lifting, generating a 15-chapter novella based on your input. But it's more than just a text generator. One of the things I find most valuable is how, as the creator, I retain access to all run data from my wordapps. Every run is saved within the IDE. This is especially handy for my image generation wordapps. Every image created is saved in its original spot, along with all the relevant context. This makes it super easy for me to review and grab what I need later. In the case of NovellaXL, access to old versions/ideas is powerful.
+Before we dive into NovellaXL_15, let's talk about the platform it lives on. **Wordware** is an innovative AI platform that empowers users to create and deploy a wide range of AI-powered applications, which we call "wordapps." Think of it as a creative playground for building AI tools. These wordapps can do all sorts of things, from generating images to analyzing text, and, in the case of NovellaXL_15, crafting entire novellas.
 
-How Does It Work?
+## Introducing NovellaXL_15: Your AI Writing Partner
 
-The NovellaXL_15 wordapp uses a series of interconnected sub-flows to craft your novella. It starts by generating titles, improving your plot, selecting the most engaging options, and finally, generating the storyline for each of the 15 chapters. A dedicated step is used to write the full chapter length in loop format, that repeats 15 times. Each chapter then gets its own high-quality TTS audio thanks to ElevenLabs integration.
+**NovellaXL_15** is a specialized wordapp designed specifically for long-form creative writing. You provide the initial spark – a story idea, writing style, and genre – and it takes care of the heavy lifting, generating a 15-chapter novella based on your input. But it's more than just a text generator. One of the things I find most valuable is how, as the creator, I retain access to all run data from my wordapps. Every run is saved within the IDE. This is especially handy for my image generation wordapps. Every image created is saved in its original spot, along with all the relevant context. This makes it super easy for me to review and grab what I need later. In the case of NovellaXL, access to old versions/ideas is powerful.
 
-A Visual Walkthrough
+## How Does It Work?
+
+The NovellaXL_15 wordapp uses a series of interconnected sub-flows to craft your novella. It starts by generating titles, improving your plot, selecting the most engaging options, and finally, generating the storyline for each of the 15 chapters. A dedicated step is used to write the full chapter length in loop format, that repeats 15 times. Each chapter then gets its own high-quality TTS audio thanks to **ElevenLabs** integration.
+
+## A Visual Walkthrough
 
 To give you a better idea, let's take a look at some screenshots from the Wordware platform:
 
-Deployments:
+### Deployments:
 
+![Wordware Deployments Screenshot](Insert Image Here)
+*This screenshot shows my "Workspace" on Wordware, displaying various "Deployments" or projects I'm working on. These deployments are my wordapps. NovellaXL_15 is one of them. You can see details like the number of runs, version, and access status (which is set to "Published")*
 
-This screenshot shows my "Workspace" on Wordware, displaying various "Deployments" or projects I'm working on. These deployments are my wordapps. NovellaXL_15 is one of them. You can see details like the number of runs, version, and access status (which is set to "Published"
-NovellaXL_15 Overview:
+### NovellaXL_15 Overview:
 
+![NovellaXL_15 Overview Screenshot](Insert Image Here)
+*Here, we dive into the specifics of the NovellaXL_15 wordapp. You can see its public link, visibility status, a banner image, title, and a brief description. On the right, under "Files," you can find the "Entrypoint" (the main script) and "Sub-flows" – these are the building blocks of the wordapp, handling tasks like generating titles, improving the plot, and writing chapters.*
 
-Here, we dive into the specifics of the NovellaXL_15 wordapp. You can see its public link, visibility status, a banner image, title, and a brief description. On the right, under "Files," you can find the "Entrypoint" (the main script) and "Sub-flows" – these are the building blocks of the wordapp, handling tasks like generating titles, improving the plot, and writing chapters.
-Run Details:
+### Run Details:
 
+![Run Details Screenshot](Insert Image Here)
+*This screenshot shows a specific run of the wordapp. You can see when it was run, how long it took, and most importantly, the "Input Values." This is where you provide your story idea, writing style, and genre. The "Trace" section on the right shows the output generated by each step of the process. In this case, it's displaying 10 novel plot ideas based on the user's initial input...*
 
-This screenshot shows a specific run of the wordapp. You can see when it was run, how long it took, and most importantly, the "Input Values." This is where you provide your story idea, writing style, and genre. The "Trace" section on the right shows the output generated by each step of the process. In this case, it's displaying 10 novel plot ideas based on the user's initial input...
-Try It Out Yourself! (And Understand Your Data)
+## Try It Out Yourself! (And Understand Your Data)
 
-NovellaXL_15 is public, and you can test it out right now! I've made it available for anyone to experiment with on the Wordware platform. Here's the link to a recent run: 💡📖NovellaXL_15. It's currently pre-loaded with the concept "ant sim as world history," but feel free to clear it out and input your own ideas.
+NovellaXL_15 is public, and you can test it out right now! I've made it available for anyone to experiment with on the Wordware platform. Here's the link to a recent run: [💡📖NovellaXL_15](Insert Link Here). It's currently pre-loaded with the concept "ant sim as world history," but feel free to clear it out and input your own ideas.
 
-Data Ownership and the "Make Your Own Version" Feature
+## Data Ownership and the "Make Your Own Version" Feature
 
 It's important to understand how data works on the Wordware platform. Wordware retains ownership of all data generated by any wordapps on their platform. This means that when you use the public link to NovellaXL_15 shared above, the data from your session, including your input (story idea, writing style, genre) and the generated novella, is owned by Wordware. As the creator of the wordapp, I have access to this data within the Wordware IDE. This allows me to see how the wordapp is performing and make improvements. While I have access to data through the public link, I want to make it absolutely clear, I have no interest in gathering any novel ideas from this, I have far too many of my own to even make use of. Rest assured, your creative work remains yours.
 
 However, my primary focus is on enhancing NovellaXL_15's functionality and user experience. I believe your creative ideas are your own, and my intention is to provide a powerful tool for you to explore them.
 
-Increased Privacy with "Make Your Own Version"
+### Increased Privacy with "Make Your Own Version"
 
-Wordware offers a fantastic feature called "Make Your Own Version" that provides an increased level of data privacy. This feature lets you clone my wordapp, creating an exact copy within your own Wordware workspace. If you have a Wordware account and are logged in, you'll see a "Make Your Own Version" button when viewing the app's page.
+Wordware offers a fantastic feature called **"Make Your Own Version"** that provides an increased level of data privacy. This feature lets you clone my wordapp, creating an exact copy within your own Wordware workspace. If you have a Wordware account and are logged in, you'll see a "Make Your Own Version" button when viewing the app's page.
 
 Here's how it works:
 
-Click the "Make Your Own Version" button. This will initiate the cloning process.
+1.  Click the "Make Your Own Version" button. This will initiate the cloning process.
+2.  The wordapp will be copied to your Wordware IDE. You'll now have your own version of NovellaXL_15.
+3.  Run your version of the wordapp. Any data generated will be stored within your IDE, subject to Wordware's data policies. While I have no access to this data, it is important to note, again, that Wordware retains ownership of all data generated on the platform.
 
-The wordapp will be copied to your Wordware IDE. You'll now have your own version of NovellaXL_15.
+### Why choose this option?
 
-Run your version of the wordapp. Any data generated will be stored within your IDE, subject to Wordware's data policies. While I have no access to this data, it is important to note, again, that Wordware retains ownership of all data generated on the platform.
-
-Why choose this option?
-
-Greater Data Privacy: While Wordware still owns the data, using your own version of the wordapp provides a degree of separation. I do not have access to the data generated within your cloned wordapp, giving you a greater level of privacy for your creative work.
-
-Customization: Feel free to modify your cloned version of the wordapp, experiment with its code, and tailor it to your specific needs.
+*   **Greater Data Privacy:** While Wordware still owns the data, using your own version of the wordapp provides a degree of separation. I do not have access to the data generated within your cloned wordapp, giving you a greater level of privacy for your creative work.
+*   **Customization:** Feel free to modify your cloned version of the wordapp, experiment with its code, and tailor it to your specific needs.
 
 So, you have two options:
 
-Use the Public Link: This is the quickest and easiest way to try out NovellaXL_15. Just remember that I will have access to the run data.
+*   **Use the Public Link:** This is the quickest and easiest way to try out NovellaXL_15. Just remember that I will have access to the run data.
+*   **Make Your Own Version:** This gives you complete control over your data and allows for customization, but requires a Wordware account.
 
-Make Your Own Version: This gives you complete control over your data and allows for customization, but requires a Wordware account.
+## Important Notes and Pro-Tips:
 
-Important Notes and Pro-Tips:
+*   **Experimental Stage:** Keep in mind that this is still very much an experimental project. I haven't had anyone other than myself critically test it, so you might encounter some quirks.
+*   **Potential Crashes:** The web implementation can be a bit finicky. If the app crashes on the first run, don't refresh the page. Just run it again, and it should work.
+*   **Copy Your Input:** Before hitting "run," copy the text you entered in the "story\_idea," "writing\_style," and "genre" fields. If it crashes, you can easily paste them back in without retyping everything.
+*   **Full Output:** If the app runs successfully, you'll get a 15-chapter novella with ElevenLabs TTS for each chapter.
+*   **ElevenlabsReader Integration:** Each run of NovellaXL_15 generates a unique URL that you can easily import into ElevenLabs Reader. ElevenLabs Reader is a text-to-speech tool that can read your entire novella aloud, including all the chapters generated by the wordapp. This makes it convenient to enjoy your creation while driving, walking, or doing other activities. Just copy the URL from the run, paste it into ElevenLabs via URL upload, and you can listen to each chapter being read aloud, in order. You can start from the beginning, which is the prompt data and novella creation, or skip ahead to the generated chapters.
 
-Experimental Stage: Keep in mind that this is still very much an experimental project. I haven't had anyone other than myself critically test it, so you might encounter some quirks.
-
-Potential Crashes: The web implementation can be a bit finicky. If the app crashes on the first run, don't refresh the page. Just run it again, and it should work.
-
-Copy Your Input: Before hitting "run," copy the text you entered in the "story_idea," "writing_style," and "genre" fields. If it crashes, you can easily paste them back in without retyping everything.
-
-Full Output: If the app runs successfully, you'll get a 15-chapter novella with ElevenLabs TTS for each chapter.
-
-ElevenlabsReader Integration: Each run of NovellaXL_15 generates a unique URL that you can easily import into ElevenLabs Reader. ElevenLabs Reader is a text-to-speech tool that can read your entire novella aloud, including all the chapters generated by the wordapp. This makes it convenient to enjoy your creation while driving, walking, or doing other activities. Just copy the URL from the run, paste it into ElevenLabs via URL upload, and you can listen to each chapter being read aloud, in order. You can start from the beginning, which is the prompt data and novella creation, or skip ahead to the generated chapters.
-
-
-
-
-
-ElevenLabs reader output
-Looking Ahead
+## Looking Ahead
 
 I'm excited to see what you create with NovellaXL_15, whether you use the public version or create your own! Your feedback will be invaluable as I continue to develop and refine it. Feel free to share your experiences, suggestions, and any issues you encounter. Let's explore the potential of AI-powered storytelling together, and the capabilities of the Wordware platform!
