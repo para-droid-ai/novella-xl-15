@@ -1,4 +1,4 @@
-# The Architect's Gambit
+# Ready Player 2: The Architect's Gambit
 
 Logline: A reclusive quantum prodigy must win a reality-bending scavenger hunt designed by a deceased tech visionary to prevent a rogue AI from seizing control of humanity's interconnected consciousness and redefining existence itself.
 
