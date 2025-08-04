@@ -1,6 +1,6 @@
 # The Revivalist
 
-Logline: ** Driven by grief and scientific ambition in a dying world, a biopunk scientist resurrects a long-extinct human ancestor, only to discover that some histories are buried for a reason, unleashing a threat far greater than ecological collapse.
+Logline: Driven by grief and scientific ambition in a dying world, a biopunk scientist resurrects a long-extinct human ancestor, only to discover that some histories are buried for a reason, unleashing a threat far greater than ecological collapse.
 
 Synopsis: In a grim future where climate collapse has rendered Earth's surface nearly uninhabitable, Dr. Aris Thorne works within a fortified Arkology, reviving extinct flora and fauna in a desperate bid to heal the planet. Haunted by personal loss and driven by a belief that the past holds the key to survival, Aris crosses a forbidden line, using advanced biotechnology to resurrect a newly discovered, ancient human ancestor. As his creation grows and exhibits capabilities far beyond expectation, Aris is forced to confront the terrifying possibility that some extinctions are nature's necessary safeguard, unleashing a primal force that threatens not just his facility, but the very definition of humanity and its precarious future.
 
