@@ -1,4 +1,4 @@
-# novella-xl-15
+# novella-xl-15 (depreciated)
 
 ## Automated Novella Creation
 
